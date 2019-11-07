@@ -84,7 +84,7 @@ Our metadata is in a file called "Ahi\_metadata.csv". Open this in a spreadsheet
 
 ### 4. Species ID from COI - the BOLD Database
 
-We will use two different databased to determine species ID. The first is the [Barcode of Life Database (BOLD)](https://http://www.boldsystems.org/index.php/IDS_OpenIdEngine). On the **Identification** tab, click on the **Species Level Barcode Records**. Then go to your fasta file, highlight the first sequence, and copy and paste it into the browser and click **Submit**.
+We will use two different databased to determine species ID. The first is the [Barcode of Life Database (BOLD)](https://www.boldsystems.org/index.php/IDS_OpenIdEngine). On the **Identification** tab, click on the **Species Level Barcode Records**. Then go to your fasta file, highlight the first sequence, and copy and paste it into the browser and click **Submit**.
 
 ![](Figs/Screen1.png)
 
